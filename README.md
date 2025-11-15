@@ -6,7 +6,7 @@ The system analysis multiple attributes of the dataset like Overview, Genre, Key
 
 # Dataset Used
 The dataset used for this project is TMDB 5000 Movie Dataset, which was sourced from Kaggle.
-link: [Link Text](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+link: [Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
   
 
 # Technology Used
